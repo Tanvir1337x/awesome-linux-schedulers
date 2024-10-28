@@ -5,11 +5,11 @@ repos:
       - id: ripsecrets
 
   - repo: https://github.com/trufflesecurity/trufflehog
-    rev: v3.82.11
+    rev: v3.82.13
     hooks:
       - id: trufflehog
 
   - repo: https://github.com/gitleaks/gitleaks
-    rev: v8.21.1
+    rev: v8.21.2
     hooks:
       - id: gitleaks
