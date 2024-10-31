@@ -28,6 +28,7 @@ An Awesome & Curated List of Schedulers for Linux.
 7. [Cachy](https://github.com/hamadmarri/cacule-cpu-scheduler/tree/c68d210538fabac002acb84d99e9c3d365edc14f) - Earlier generation/version of [CacULE](https://github.com/hamadmarri/cacule-cpu-scheduler).
 8. [PDS-MQ: Priority and Deadline based Skiplist multiple queue](https://www.phoronix.com/news/PDS-MQ-Linux-4.17) - Designed with VRQ (Variable Run Queue) support, derived from [BFS: Brain Fuck Scheduler](https://en.wikipedia.org/wiki/Brain_Fuck_Scheduler).
 9. [BMQ: Bit Map Queue](https://www.phoronix.com/news/Linux-BitMap-Queue-BMQ) - Design based on existing [PDS](https://www.phoronix.com/news/PDS-MQ-Linux-4.17) development experience and inspired by the scheduler found in [Zircon](https://fuchsia.dev/fuchsia-src/concepts/kernel) by Google.
+10. [ECHO: Enhanced CPU Handling Orchestrator](https://github.com/hamadmarri/ECHO-CPU-Scheduler) - A CPU processes scheduler patch for the Linux kernel. It features highly multitasking handling with a maximum 35us quota, shared quotas for tasks, a minimum slice for running tasks, estimation of tasks using Shortest Remaining Task Next (SRTF), and a load balancer similar to the TT scheduler.
 
 ### Multiqueue I/O Schedulers
 
