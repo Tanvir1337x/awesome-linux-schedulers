@@ -4,11 +4,13 @@ An Awesome & Curated List of Schedulers for Linux.
 
 ## Contents
 
-- [Official Linux Kernel CPU Schedulers](#official-linux-kernel-cpu-schedulers)
-- [Community-Developed CPU Schedulers](#community-developed-cpu-schedulers)
-- [Multiqueue I/O Schedulers](#multiqueue-io-schedulers)
-- [Non-Multiqueue I/O Schedulers](#non-multiqueue-io-schedulers)
-- [Resources](#resources)
+- [Awesome Linux Schedulers ](#awesome-linux-schedulers-)
+  - [Contents](#contents)
+    - [Official Linux Kernel CPU Schedulers](#official-linux-kernel-cpu-schedulers)
+    - [Community-Developed CPU Schedulers](#community-developed-cpu-schedulers)
+    - [Multiqueue I/O Schedulers](#multiqueue-io-schedulers)
+    - [Non-Multiqueue I/O Schedulers](#non-multiqueue-io-schedulers)
+  - [Resources](#resources)
 
 ### Official Linux Kernel CPU Schedulers
 
