@@ -5,7 +5,7 @@ repos:
       - id: ripsecrets
 
   - repo: https://github.com/trufflesecurity/trufflehog
-    rev: v3.82.13
+    rev: v3.83.2
     hooks:
       - id: trufflehog
 
