@@ -1,4 +1,4 @@
-# Awesome Linux Schedulers [![Awesome Linux CPU Schedulers](https://awesome.re/badge-flat.svg)](https://github.com/TanvirOnGH/awesome-linux-cpu-schedulers)
+# Awesome Linux Schedulers [![Awesome Linux CPU Schedulers](https://awesome.re/badge-flat.svg)](https://github.com/Tanvir1337x/awesome-linux-cpu-schedulers)
 
 An Awesome & Curated List of Schedulers for Linux.
 
