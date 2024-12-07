@@ -44,6 +44,7 @@ An Awesome & Curated List of Schedulers for Linux.
 
 ## Resources
 
+- [sched-ext](https://github.com/sched-ext/scx) - A Linux kernel feature which enables implementing kernel thread schedulers in BPF and dynamically loading them.
 - [Project C](https://gitlab.com/alfredchen/projectc) - A project to provide BMQ and PDS-mq cpu scheduler in one single patch set.
 - [CK Kolivas' Patches Web Directory](http://ck.kolivas.org/patches/) - CK's web directory providing MuQSS, BFS and other patchsets.
 - [Linux Baby](https://github.com/hamadmarri/linux-baby) - Linux kernel with baby patchset applied.
