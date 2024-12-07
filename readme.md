@@ -56,4 +56,6 @@ An Awesome & Curated List of Schedulers for Linux.
 - [Kernel patches by Sir lucjan](https://github.com/sirlucjan/kernel-patches) - Curated custom Linux kernel patches.
 - [clearlinux-pkgs/linux](https://github.com/clearlinux-pkgs/linux) - Linux kernel patches by [clear linux](https://clearlinux.org) optimized for Intel systems.
 - [linux-nitrous](https://gitlab.com/xdevs23/linux-nitrous) - Linux kernel with patchsets optimized for Intel Skylake and newer systems.
+- [kpatch](https://github.com/dynup/kpatch) - A Linux dynamic kernel patching infrastructure which allows you to patch a running kernel without rebooting or restarting any processes.
+- [ksplice](https://github.com/jirislaby/ksplice) - A set of tools designed to create binary patches from standard kernel patches, allowing updates to be applied to a running Linux kernel without requiring a reboot.
 - [hamadmarri/benchmarks](https://github.com/hamadmarri/benchmarks) - Curated list of Linux CPU Scheduler Benchmarks and Feedback.
