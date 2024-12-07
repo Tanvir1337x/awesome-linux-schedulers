@@ -53,6 +53,7 @@ An Awesome & Curated List of Schedulers for Linux.
 - [linux-pf](https://codeberg.org/pf-kernel/linux) - Maintained by a kernel engineer ([post-factum](https://pfkernel.natalenko.name/)), contains patchsets not merged into the official kernel mainline.
 - [Zen Kernel](https://github.com/zen-kernel/zen-kernel) - Result of a collaborative effort of kernel hackers to provide the best Linux kernel possible for everyday systems.
 - [Liquorix Kernel](https://liquorix.net) - An enthusiast Linux kernel designed for uncompromised responsiveness in interactive systems, enabling low latency compute in A/V production, and reduced frame time deviations in games.
+- [Linux-TKG](https://github.com/Frogging-Family/linux-tkg) - A build system to automatically download, patch and compile the Linux Kernel from the official Linux git repository, with a selection of patches aiming for better desktop/gaming experience.
 - [Kernel patches by Sir lucjan](https://github.com/sirlucjan/kernel-patches) - Curated custom Linux kernel patches.
 - [graysky2 kernel compiler patches for additional CPUs](https://github.com/graysky2/kernel_compiler_patch) - Kernel patches enables compiler optimizations for additional CPUs.
 - [Frogging Family Community Kernel Patches](https://github.com/Frogging-Family/community-patches)
