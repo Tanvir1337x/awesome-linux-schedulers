@@ -54,6 +54,9 @@ An Awesome & Curated List of Schedulers for Linux.
 - [Zen Kernel](https://github.com/zen-kernel/zen-kernel) - Result of a collaborative effort of kernel hackers to provide the best Linux kernel possible for everyday systems.
 - [Liquorix Kernel](https://liquorix.net) - An enthusiast Linux kernel designed for uncompromised responsiveness in interactive systems, enabling low latency compute in A/V production, and reduced frame time deviations in games.
 - [Kernel patches by Sir lucjan](https://github.com/sirlucjan/kernel-patches) - Curated custom Linux kernel patches.
+- [graysky2 kernel compiler patches for additional CPUs](https://github.com/graysky2/kernel_compiler_patch) - Kernel patches enables compiler optimizations for additional CPUs.
+- [Frogging Family Community Kernel Patches](https://github.com/Frogging-Family/community-patches)
+- [The Linux Userspace API Group's kernel features list](https://github.com/uapi-group/kernel-features) - A collection of ideas for new kernel features by [UAPI Group](https://github.com/uapi-group).
 - [clearlinux-pkgs/linux](https://github.com/clearlinux-pkgs/linux) - Linux kernel patches by [clear linux](https://clearlinux.org) optimized for Intel systems.
 - [linux-nitrous](https://gitlab.com/xdevs23/linux-nitrous) - Linux kernel with patchsets optimized for Intel Skylake and newer systems.
 - [kpatch](https://github.com/dynup/kpatch) - A Linux dynamic kernel patching infrastructure which allows you to patch a running kernel without rebooting or restarting any processes.
