@@ -14,6 +14,8 @@ An Awesome & Curated List of Schedulers for Linux.
     - [Kernel Features and Patches](#kernel-features-and-patches)
     - [Kernel Patching Tools](#kernel-patching-tools)
     - [Benchmarks and Feature Lists](#benchmarks-and-feature-lists)
+    - [Management Tools](#management-tools)
+    - [Miscellaneous](#miscellaneous)
 
 ### Official Linux Kernel CPU Schedulers
 
@@ -74,3 +76,14 @@ An Awesome & Curated List of Schedulers for Linux.
 
 - [hamadmarri/benchmarks](https://github.com/hamadmarri/benchmarks) - Curated list of Linux CPU Scheduler Benchmarks and Feedback.
 - [The Linux Userspace API Group's kernel features list](https://github.com/uapi-group/kernel-features) - A collection of ideas for new kernel features by [UAPI Group](https://github.com/uapi-group).
+
+### Management Tools
+
+- [autokernel](https://github.com/oddlama/autokernel) - Autokernel is a tool for managing your kernel configuration that guarantees semantic correctness.
+- [kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor.
+- [kernel-hardening-checker (formerly kconfig-hardened-check)](https://github.com/a13xp0p0v/kernel-hardening-checker) - A tool for checking the security hardening options of the Linux kernel.
+
+### Miscellaneous
+
+- [dropwatch](https://github.com/nhorman/dropwatch) -  User space utility to interface to kernel dropwatch facility.
+- [out-of-tree](https://github.com/out-of-tree/out-of-tree) - out-of-tree is the kernel {module, exploit} development tool.
