@@ -85,5 +85,5 @@ An Awesome & Curated List of Schedulers for Linux.
 
 ### Miscellaneous
 
-- [dropwatch](https://github.com/nhorman/dropwatch) -  User space utility to interface to kernel dropwatch facility.
+- [dropwatch](https://github.com/nhorman/dropwatch) - User space utility to interface to kernel dropwatch facility.
 - [out-of-tree](https://github.com/out-of-tree/out-of-tree) - out-of-tree is the kernel {module, exploit} development tool.
